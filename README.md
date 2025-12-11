@@ -1,7 +1,7 @@
 [![Masterhead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://shahjayendra.io)
 
 <h1 align="center">Hi 👋, I'm Shah Jayendra  Aspiring Full Stack Developer | BCA Final Year Student | India </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/08/70/32/31/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg">
 
@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **v-code(project)**
+- 🚀 I'm currently building a project called **V-Code**, focused on modern web development.
 
 - 🌱 I'm currently learning React & Python
 
 - 👯 I’m looking to collaborate on **linkedln**
 
-- 💬 Ask me about: MERN Stack, React, Node.js
+- 💬 MERN Stack (MongoDB, Express.js, React, Node.js)
 
 - 📫 How to reach me **jay688153@gmail.com**
 
